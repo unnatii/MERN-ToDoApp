@@ -3,7 +3,7 @@ MERN Practice Project
 
 ##create MERN Project folder
 
-## clone the above folders in it
+##clone the above folders in it
 
 ##open two terminals 
  
